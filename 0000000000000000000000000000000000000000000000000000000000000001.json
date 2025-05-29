@@ -1,0 +1,12 @@
+{
+    "name": "TokenPro",
+    "description": "Este token digital representa muchas cosas",
+    "image": "https://raw.githubusercontent.com/danielthewolf93/testmin/refs/heads/main/tokpro.png",
+"attributes": [
+    {
+      "trait_type": "Proyecto",
+      "value": "TKLiti"
+    }
+]
+}
+
